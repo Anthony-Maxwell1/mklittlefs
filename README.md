@@ -89,7 +89,7 @@ $ mklittlefs --version
 
 ## Mac installation via Homebrew
 
-This utility has been added to [Homebrew](brew.sh) and can be built and installed through the Mac command line:
+This utility has been added to [Homebrew](https://brew.sh) and can be built and installed through the Mac command line:
 ````
 brew install mklittlefs
 ````
